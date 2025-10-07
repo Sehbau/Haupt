@@ -1,4 +1,4 @@
-
+Three steps to get running:
 
 1) After downloading and extracting a distribution, strip its suffix from the folder name, ie. SEHBAU_win -> SEHBAU.
 
