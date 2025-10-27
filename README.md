@@ -1,9 +1,12 @@
 Three steps to get running:
 
-1) After downloading and extracting a distribution, strip its suffix from the folder name, ie. SEHBAU_win -> SEHBAU.
+1) Download and extract the distribution (SEHBAU_win.zip, SEHBAU_ubu.gzip, etc.) and strip its suffix from the folder name, ie. SEHBAU_win to SEHBAU.
 
-2) Set variable 'rootSehBau' in AdminMb/globalsSB.m to your path for Matlab. Or in AdminPy/globalsSB.py for Python.
+2) For Matlab: open script AdminMb/globalsSB.m  and set variable 'rootSehBau' to your path.
+   For Python: open script AdminPy/globalsSB.py and set variable 'rootSehBau' to your path.
 
-3) Run the demo scripts in the main folder SEHBAU, exsbAll.m / exsbAll.py.
+4) Run the demo scripts in the main folder SEHBAU
+   For Matlab: exsbAll.m
+   For Python: exsbAll.py, ie. python -i exsbAll.py
 
 For more info see the documentation DokuSB.pdf (here, or in folder SEHBAU)
