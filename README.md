@@ -1,4 +1,4 @@
-Three steps to get running:
+Three steps to get running: 
 
 1) Download and extract the distribution (SEHBAU_win.zip, SEHBAU_ubu.gzip, etc.) and strip its suffix from the folder name, ie. rename SEHBAU_win to SEHBAU.
 
