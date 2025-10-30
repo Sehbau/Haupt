@@ -15,5 +15,6 @@ Three steps to get running:
    Matlab: exsbAll.m
    
    Python: exsbAll.py, ie. python -i exsbAll.py
+            if your python executable is called 'python3', you need to change that in script exsbAll.py too. 
 
 For more info see the documentation DokuSB.pdf (in this repository, or in the downloaded distribution)
