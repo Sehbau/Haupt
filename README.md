@@ -12,7 +12,7 @@ Three steps to get running:
 
 3) Run the demo scripts in the main folder SEHBAU
 
-   Matlab: exsbAll.m
+   Matlab: exsbAll.m. If nothing is happening, then perhaps start Matlab in a shell with 'matlab -nodesktop'. It could be a problem with DLLs.
    
    Python: exsbAll.py, ie. python -i exsbAll.py. 
             If your python executable is called 'python3' (or something else), you need to change that in script exsbAll.py too. 
