@@ -12,9 +12,9 @@ Three steps to get running:
 
 3) Run the demo scripts in the main folder SEHBAU
 
-   Matlab: exsbAll.m. If nothing is happening, then perhaps start Matlab in a shell with 'matlab -nodesktop'. It could be a problem with DLLs.
+   Matlab: exsbAll.m. If nothing is happening, then perhaps start Matlab in a shell with 'matlab -nodesktop' (it could be a problem with DLLs).
    
-   Python: exsbAll.py, ie. python -i exsbAll.py. 
+   Python: exsbAll.py, ie. > python -i exsbAll.py. 
             If your python executable is called 'python3' (or something else), you need to change that in script exsbAll.py too. 
 
 For more info see the documentation DokuSB.pdf (in this repository, or in the downloaded distribution)
