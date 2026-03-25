@@ -17,4 +17,4 @@ Three steps to get running:
    Python: exsbAll.py, ie. > python -i exsbAll.py. 
             If your python executable is called 'python3' (or something else), you need to change that in script exsbAll.py too. 
 
-For more info see the documentation DokuSB.pdf (in this repository, or in the downloaded distribution)
+For more info see the documentation link under DokuSBlink.pdf
