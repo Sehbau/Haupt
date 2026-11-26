@@ -12,9 +12,8 @@ Three steps to get running:
    
 3) Run the demo scripts in the main folder SEHBAU
    
-   Python: exsbAll.py, ie. > python -i exsbAll.py. 
-            If your python executable is called 'python3' (or something else), you need to change that in script exsbAll.py too.
-    
+   Python: exsbAll.py: requires modules numpy, matplotlib, skimage
+       
    Matlab: exsbAll.m. If nothing is happening, then perhaps start Matlab in a shell with 'matlab -nodesktop' (it could be a problem with DLLs).
    
 
