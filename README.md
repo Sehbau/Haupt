@@ -5,16 +5,17 @@ Three steps to get running:
    Strip its suffix from the folder name, ie. rename SEHBAU_win to SEHBAU.
 
 2) Set the rootpath variable 'rootSehBau' in script globalsSB:
-   
+
+   Python: AdminPy/globalsSB.py. Or run script setup.py in directory SEHBAU: it will set the variable automatically.
+
    Matlab: AdminMb/globalsSB.m  
    
-   Python: AdminPy/globalsSB.py
-
 3) Run the demo scripts in the main folder SEHBAU
-
-   Matlab: exsbAll.m. If nothing is happening, then perhaps start Matlab in a shell with 'matlab -nodesktop' (it could be a problem with DLLs).
    
    Python: exsbAll.py, ie. > python -i exsbAll.py. 
-            If your python executable is called 'python3' (or something else), you need to change that in script exsbAll.py too. 
+            If your python executable is called 'python3' (or something else), you need to change that in script exsbAll.py too.
+    
+   Matlab: exsbAll.m. If nothing is happening, then perhaps start Matlab in a shell with 'matlab -nodesktop' (it could be a problem with DLLs).
+   
 
 For more info see the documentation link under DokuSBlink.pdf
